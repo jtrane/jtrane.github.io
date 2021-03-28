@@ -2,7 +2,7 @@
   "input": "./gallery",
   "output": "./build_output",
   "title": "Photo Gallery", 
-  "sort-albums-by": "date",
+  "sort-albums-by": "end-date",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
