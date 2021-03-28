@@ -3,7 +3,7 @@
   "output": "./build_output",
   "title": "Photo Gallery", 
   "sort-albums-by": "title",
-  "sort-media-by": "random",
+  "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "usage-stats": false
