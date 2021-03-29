@@ -2,7 +2,6 @@
   "input": "./gallery",
   "output": "./build_output",
   "title": "Photo Gallery", 
-  "thumb-size": 0,
   "sort-albums-by": "end-date",
   "sort-albums-direction": "desc",
   "sort-media-by": "filename",
